@@ -1,3 +1,3 @@
-#taronpa.github.io
+# taroninak.github.io
 
 My profile page deployed as github pages
